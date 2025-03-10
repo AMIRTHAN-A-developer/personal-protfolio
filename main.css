@@ -639,6 +639,9 @@ footer{
     .project-box{
         width: 80%;
     }
+    .project-box  label{
+        text-align: center;
+    }
 
 }
 
