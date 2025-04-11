@@ -419,7 +419,7 @@ h3{
     text-decoration: none;
 }
 
-.project-box:hover.project-box>a{
+.project-box:hover.project-box a {
     height: 38px;
     width: 110px;
     border: 1px solid ;
@@ -430,6 +430,10 @@ h3{
     border: none;
     text-align: center;
    font-size: 13px;
+}
+
+.project-box:hover.project-box a:hover{
+    text-decoration: underline;
 }
 
 .contact-info{
