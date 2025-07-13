@@ -241,6 +241,8 @@ nav{
     width: 380px;
     height: 380px;
     object-fit: cover;
+    z-index: 1;
+    
 }
 @keyframes imgFloat {
     50%{
